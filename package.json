@@ -1,0 +1,11 @@
+{
+  "name": "qrcodedecoder",
+  "version": "1.0.0",
+  "description": "Expresss server to handle and decode QR code images",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SeniorSam9",
+  "license": "MIT"
+}
